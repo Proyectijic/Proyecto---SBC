@@ -1,6 +1,10 @@
 # proyectosbc
 
-A new Flutter application.
+Proyecto de Clasificación de plantas ornamentales 
+Elaborado Por:
+• Adriano Rodríguez
+• Judith Ruiz
+• José Mendoza A.
 
 ## Getting Started
 
