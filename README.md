@@ -1,7 +1,8 @@
 # proyectosbc
 
 Proyecto de Clasificación de plantas ornamentales 
-Elaborado Por:
+
+# Elaborado Por:
 • Adriano Rodríguez
 • Judith Ruiz
 • José Mendoza A.
