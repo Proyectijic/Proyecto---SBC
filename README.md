@@ -4,12 +4,12 @@ Proyecto de Clasificación de plantas ornamentales
 
 # Elaborado Por:
 - Adriano Rodríguez
--Judith Ruiz
--José Mendoza A.
+- Judith Ruiz
+- José Mendoza A.
 
-# UNIVERSIDAD TECNOLÓGICA DE PANAMÁ 
-# FACULTAD DE INGENIERÍA DE SISTEMAS COMPUTACIONALES 
-# CENTRO REGIONAL DE VERAGUAS
+- UNIVERSIDAD TECNOLÓGICA DE PANAMÁ 
+- FACULTAD DE INGENIERÍA DE SISTEMAS COMPUTACIONALES 
+- CENTRO REGIONAL DE VERAGUAS
 
 ## Getting Started
 
